@@ -41,6 +41,12 @@ This project analyzes the relationship between Bitcoin market sentiment (Fear/Gr
    streamlit run app.py
    ```
 
+## Streamlit app preview:
+
+https://github.com/user-attachments/assets/21f8c622-7af7-4aa1-9d4d-81eb336a191e
+
+
+
 ## 📈 Summary of Insights
 - **Fear Alpha:** Aggregate PnL is statistically 7x higher during Fear days compared to Greed days, suggesting that "Fear" provides superior liquidity for experienced traders.
 - **Scaling Behavior:** Traders on Hyperliquid do not shy away from panic; they increase trade frequency by ~50% and average position sizes by ~63% during Fear regimes.
